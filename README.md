@@ -20,4 +20,8 @@ Since all bridges have the same size on the river and the bicycles speeds are eq
 
 ## dijkstra
 
-There are many algorithms for solving problems which have an objective of the shortest path. In our test, one of the best used ones is the dijkstra algorithm.
+There are many algorithms for solving problems which have an objective of the shortest path. In our test, one of the best used ones is the dijkstra algorithm. This algorithm can be helpful for small instances with limited number of nodes. For bigger instances heuristic algorithms are needed to remove some of bridges & piers which are far from the houses & shops.
+
+## Other functions
+
+Other functions files are written inside the dijkstra function.
